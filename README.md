@@ -1,0 +1,1 @@
+Here is the matlab code for each of the algorithms in the numerical analysis course, which in the author's opinion is the best set of code to understand. The codes also help in understanding the theoretical ideas of the algorithms.
